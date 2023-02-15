@@ -150,6 +150,7 @@ table(CarreraLuz22$categoria, CarreraLuz22$sex)
 ```
 
 **Análisis**
+El 61,29% de los participantes de la carrera son hombres y el restante son mujeres.Por otro lado, la categoria que mas participantes tuvo fue la abierta, en la pestaña de Hombres por categoria, en el grupo de veteranos C se encuentran dos datos atipicos, esto puede ser debido a una diferencia alta de edad o a la captura de dato errada.Por otro lado, se identifico el participante más joven y con mayor edad.
 
 
 Column {data-width=250}
