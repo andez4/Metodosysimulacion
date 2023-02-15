@@ -149,6 +149,8 @@ ggplot(CarreraLuz22, aes(x = edad)) +
 table(CarreraLuz22$categoria, CarreraLuz22$sex)
 ```
 
+**Análisis**
+
 
 Column {data-width=250}
 -----------------------------------------------------------------------
